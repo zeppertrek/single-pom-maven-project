@@ -1,0 +1,1 @@
+# single-pom-maven-project
